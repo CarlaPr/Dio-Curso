@@ -25,3 +25,28 @@ Pacotes
 
 ## Java Beans
 É uma iniciativa conceitual da comunidade para que se possa ter uma estruturação de escrita e de expressao das declaraçoes das variaveis, metodos, classes e assim sucessivamente.
+São formas de bons habitos que devem ser feitos ao ecrever um codigo.
+* Uma Variavel deve ser clara, sem abreviaçoes ou sem sentido.
+* Uma Variavel é sempre no singular, exceto em arrays ou coleçao.
+* Defina um idioma unico para as Variaveis.
+
+* Métodos deverão ser nomeado como verbos. ex: Somar (int n1, n2)
+
+## Java Sintaxes
+
+ Tipo Primitivo    | Descrição                                   |
+| :---------- | :------------------------------------------ |
+| int | inteiro |
+| byte | |
+| short |  |
+| long |  |
+| float |  |
+| boolean |  |
+| chat |  |
+| double |  |
+
+ Todos esses tipos representam **valores brutos** que são armazenados na pilha de memoria *( memory stack )*.
+
+
+ 
+
